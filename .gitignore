@@ -68,4 +68,6 @@ sftp-config.json
 .phpintel
 
 # Ignore Visual Studio code
-.vscode
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
